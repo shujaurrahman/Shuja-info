@@ -40,10 +40,7 @@ hr{
   position:relative;
 }
 
-.bottam-cloud{
-  position: absolute;
-  left: 200px;
-  right: 3000px;
+
   
 }
 .top-cloud{
@@ -107,7 +104,7 @@ hr{
 .footer-link:hover{
   color: #EAF6F6;
 }
-.btn {
+.btn-shuja {
   margin-top: 20px;
   background: #11CDD4;
   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
@@ -129,7 +126,7 @@ hr{
   text-align: center;
 }
 
-.btn:hover {
+.btn-shuja:hover {
   border: solid #30E3CB 1px;
   background: #30E3CB;
   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
