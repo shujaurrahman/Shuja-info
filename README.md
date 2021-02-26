@@ -1,2 +1,2 @@
-# mysite
-My First Functional Site
+# shuja-info
+personal-info
